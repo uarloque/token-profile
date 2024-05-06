@@ -1,0 +1,28 @@
+{
+  "symbol": "PLT",
+  "address": "0xc298812164bd558268f51cc6e3b8b5daaf0b6341",
+  "overview":{
+        "en": "$PLT Token for ACTM, Automated Crypto Teller Machine Project. Cryptocurrency to cash and vice-versa from a kiosk.",
+        "zh": ""
+  },
+  "email": "actm@plata.ie",
+  "website": "https://www.plata.ie/",
+  "whitepaper": "https://typofx.gitbook.io/usdplt-token-for-actm/",
+  "state": "NORMAL",
+  "published_on": "2022-09-09",
+  "initial_price":{
+        "ETH":"0.00000000611 ETH",
+        "USD":"0.00001 USD",
+        "BTC":"0.00000000046 BTC"
+  },
+  "links": {
+    "blog": "https://www.instagram.com/typofx/",
+    "twitter": "https://twitter.com/TheTypoFX",
+    "telegram": "https://t.me/typofx",
+    "github": "https://github.com/typofx/plata",
+    "facebook": "https://www.facebook.com/typoFX/",
+    "reddit": "",
+    "slack": "",
+    "medium": "https://medium.com/@typofx"
+  }
+}
